@@ -7,7 +7,7 @@ import com.pi4j.io.i2c.I2CConfig;
 /**
  * Implementation of a LCDDisplay using GPIO with Pi4J
  * For now, only works with the PCF8574T Backpack
- * Written by txemaromero at <a href="https://github.com/txemaromero/lcddisplay-java">...</a>
+ * Written by txemaromero at https://github.com/txemaromero/lcddisplay-java
  */
 public class LcdDisplay {
 
