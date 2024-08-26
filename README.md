@@ -1,4 +1,8 @@
 # Chee-dar
+
+# Update!
+it didnt work. i had 8 tries and it only picked up 20mph on one run.
+# About
 A project using [limpkin's CDM324 radar](https://github.com/limpkin/cdm324_fft), a Raspberry Pi Zero W, and I2C LCD display (potentially a different display in the future) to track the speed of running Cheetahs. The purpose of this project is to be as low cost as possible.
 
 This uses Pi4J, some code borrowed from [txemaromero](https://github.com/txemaromero/lcddisplay-java) for the I2C LCD display, and jssc to interface with the serial connection to the radar.
